@@ -1,9 +1,8 @@
 ## Hello 👋
 
-Programming Games is my pasion
-
+Programming and Video Games is my pasion
 ## Skills
 
-* Modern C++ 11 20 and Unreal Engine 5
-* Gameplay Programming
-* UI Programming
+* Java 21 Spring Boot 3
+* Docker and Kubernetes 
+* Linux Lover
